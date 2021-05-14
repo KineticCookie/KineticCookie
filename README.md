@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 - 👨‍💻 Machine Learning engineer @ [Provectus](https://provectus.com/)
 - 🔭 I’m currently working on [Hydrosphere.io](https://github.com/Hydrospheredata)
 - ⚙️ MLOps enthusiast
