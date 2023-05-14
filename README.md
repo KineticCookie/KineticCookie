@@ -1,8 +1,8 @@
 ### Hello there 👋
-- 👨‍💻 Machine Learning engineer @ [Provectus](https://provectus.com/)
-- 🔭 I’m currently working on [Hydrosphere.io](https://github.com/Hydrospheredata)
-- ⚙️ MLOps enthusiast
-- 🧰 Developing in Scala and Python
+- 👨‍💻 Team Lead @ [Provectus](https://provectus.com/)
+- 🔭 Working on secret closed source projects 🤫
+- ⚙️ ML / MLOps / Backend development
+- 🧰 Developing in functional Scala and Python
 <!--
 **KineticCookie/KineticCookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
