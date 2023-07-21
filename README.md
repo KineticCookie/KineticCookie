@@ -1,8 +1,8 @@
 ### Hello there 👋
-- 👨‍💻 Team Lead @ [Provectus](https://provectus.com/)
+- 👨‍💻 Platform Engineer @ Santiment
 - 🔭 Working on secret closed source projects 🤫
-- ⚙️ ML / MLOps / Backend development
-- 🧰 Developing in functional Scala and Python
+- ⚙️ ML / MLOps / Platform engineering
+- 🧰 Professionally handling YAML and JSON using Python and Scala
 <!--
 **KineticCookie/KineticCookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
